@@ -1,0 +1,22 @@
+{
+  "name": "@z-emotion/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "sylar",
+  "license": "MIT",
+  "description": "z-emotion prettier config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-emotion/prettier-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public",
+    "tag": "latest"
+  },
+  "homepage": "https://github.com/z-emotion/prettier-config.git"
+}

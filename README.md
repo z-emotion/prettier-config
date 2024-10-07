@@ -1,8 +1,10 @@
 # z-emotion prettier config
 
+- ref https://prettier.io/docs/en/configuration.html#sharing-configurations
+
 # usage
 
-- add to package.json
+- add to package.json(top level)
 
 ```
 {
